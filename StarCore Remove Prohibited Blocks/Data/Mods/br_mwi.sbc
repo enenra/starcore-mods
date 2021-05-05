@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EntityComponents>
+    <EntityComponent xsi:type="MyObjectBuilder_InventoryComponentDefinition">
+      <Id>
+        <TypeId>Inventory</TypeId>
+        <SubtypeId>BlockRestrictions_StarCore_MWI</SubtypeId>
+      </Id>
+      <Description>
+        [?xml version="1.0" encoding="utf-16"?]
+        [DefaultSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"]
+          [ForceSetting]true[/ForceSetting]
+          
+          [DefaultSetting]
+            [Type]MyObjectBuilder_LargeMissileTurret/BattleshipCannonMK22[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+          
+          [DefaultSetting]
+            [Type]MyObjectBuilder_SmallMissileLauncher/Static150mm[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+          
+          [DefaultSetting]
+            [Type]MyObjectBuilder_SmallMissileLauncher/Static30mm[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+          
+          [DefaultSetting]
+            [Type]MyObjectBuilder_LargeMissileTurret/TelionAFGen2[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+          
+          [DefaultSetting]
+            [Type]MyObjectBuilder_LargeMissileTurret/TelionAMACM[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+          
+          [DefaultSetting]
+            [Type]MyObjectBuilder_LargeMissileTurret/TelionAF[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+          
+          [DefaultSetting]
+            [Type]MyObjectBuilder_SmallMissileLauncher/HeavyDefenseTurret[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+          
+          [DefaultSetting]
+            [Type]MyObjectBuilder_SmallMissileLauncher/M2Destroyer[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+          
+          [DefaultSetting]
+            [Type]MyObjectBuilder_SmallMissileLauncher/M12Swarm[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+        [/DefaultSettings]
+      </Description>
+    </EntityComponent>
+  </EntityComponents>
+</Definitions>

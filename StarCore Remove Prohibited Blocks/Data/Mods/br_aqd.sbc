@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EntityComponents>
+    <EntityComponent xsi:type="MyObjectBuilder_InventoryComponentDefinition">
+      <Id>
+        <TypeId>Inventory</TypeId>
+        <SubtypeId>BlockRestrictions_StarCore_AQD</SubtypeId>
+      </Id>
+      <Description>
+        [?xml version="1.0" encoding="utf-16"?]
+        [DefaultSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"]
+          [ForceSetting]true[/ForceSetting]
+          
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Thrust/AQD_LG_HydroThrusterL_Armored[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Thrust/AQD_LG_HydroThrusterL_ArmoredSlope[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+          
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Thrust/AQD_LG_HydroThrusterS_Armored[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Thrust/AQD_LG_HydroThrusterS_ArmoredSlope[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+        [/DefaultSettings]
+      </Description>
+    </EntityComponent>
+  </EntityComponents>
+</Definitions>

@@ -1,0 +1,5 @@
+# Ignore these file types
+*/OriginalContent/
+*.mod
+*.sbmi
+*.psd
