@@ -15,13 +15,13 @@ namespace ShipPoints
                 BattleshipCannonMK2@110;
                 BattleshipCannonMK22@110;
                 BattleshipCannonMK3@275;
-                BFG_M@450;
+                BFG_M@500;
                 RailgunxTurretS@150;
                 RailgunxTurretM@275;
                 RailgunxTurret@400;
 				
-				StaticBattery1@150;
-				StaticBattery1Stack@150;
+				StaticBattery1@100;
+				StaticBattery1Stack@100;
 				Railgunx@150;
 				
                 M1Torpedo@400;
@@ -89,7 +89,7 @@ namespace ShipPoints
                 AQD_LG_IonThrusterL_Armored@110;
                 IonHeavyCovered@450;
                 LargeWarhead@20;
-                LargeDecoy@50;
+                LargeDecoy@25;
                 LargeStator@50;
                 LargeAdvancedStator@50;
                 LargeHinge@50;
