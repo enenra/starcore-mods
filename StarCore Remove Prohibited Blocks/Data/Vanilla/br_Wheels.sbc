@@ -13,130 +13,127 @@
           [ForceSetting]true[/ForceSetting]
           
           [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/Suspension1x1[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/Suspension1x1[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]
 
           [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/Suspension3x3[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/Suspension3x3[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]
 		  
           [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/Suspension5x5[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/Suspension5x5[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]
 		          
           [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/Suspension1x1mirrored[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/Suspension1x1mirrored[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]
 
           [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/Suspension3x3mirrored[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/Suspension3x3mirrored[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]
 		  
           [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/OffroadSuspension1x1[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/OffroadSuspension1x1[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]	
 
          [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/OffroadSuspension3x3[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/OffroadSuspension3x3[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]	
 		  
          [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/OffroadSuspension5x5[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/OffroadSuspension5x5[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]	
 		  
          [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/OffroadSuspension1x1mirrored[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/OffroadSuspension1x1mirrored[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]	
 		  
          [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/OffroadSuspension3x3mirrored[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/OffroadSuspension3x3mirrored[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]	
 		  
          [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/OffroadSuspension5x5mirrored[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/OffroadSuspension5x5mirrored[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]	
 		  
          [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/Suspension5x5mirrored[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/Suspension5x5mirrored[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]	
 		  
 		  
 		  
           [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/RealWheel1x1[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/RealWheel1x1[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]
 
           [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/RealWheel[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/RealWheel[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]
 		  
           [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/RealWheel5x5[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/RealWheel5x5[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]
 		          
           [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/RealWheel1x1mirrored[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/RealWheel1x1mirrored[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]
 
           [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/RealWheelmirrored[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/RealWheelmirrored[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]
 		  
           [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/RealWheel5x5mirrored[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/RealWheel5x5mirrored[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]	
 
          [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/OffroadRealWheel1x1[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/OffroadRealWheel1x1[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]	
 		  
          [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/OffroadRealWheel[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/OffroadRealWheel[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]	
 		  
          [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/OffroadRealWheel5x5[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/OffroadRealWheel5x5[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]	
 		  
          [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/OffroadRealWheel1x1mirrored[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/OffroadRealWheel1x1mirrored[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]	
 		  
          [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/OffroadRealWheelmirrored[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/OffroadRealWheelmirrored[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]	
 		  
          [DefaultSetting]
-            [Type]MyObjectBuilder_MotorSuspensionDefinition/OffroadRealWheel5x5mirrored[/Type]
+            [Type]MyObjectBuilder_MotorSuspension/OffroadRealWheel5x5mirrored[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
           [/DefaultSetting]	
 
-		  
-
-	  
         [/DefaultSettings]
       </Description>
     </EntityComponent>
