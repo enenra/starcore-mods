@@ -89,7 +89,7 @@ namespace ShipPoints
                 AQD_LG_IonThrusterL_Armored@110;
                 IonHeavyCovered@450;
                 LargeWarhead@20;
-                LargeDecoy@25;
+                LargeDecoy@10;
                 LargeStator@50;
                 LargeAdvancedStator@50;
                 LargeHinge@50;
