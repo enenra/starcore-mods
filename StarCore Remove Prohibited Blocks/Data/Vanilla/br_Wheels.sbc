@@ -127,12 +127,194 @@
          [DefaultSetting]
             [Type]MyObjectBuilder_MotorSuspension/OffroadRealWheelmirrored[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
-          [/DefaultSetting]	
+          [/DefaultSetting]
 		  
          [DefaultSetting]
             [Type]MyObjectBuilder_MotorSuspension/OffroadRealWheel5x5mirrored[/Type]
             [AllowedForPlayer]false[/AllowedForPlayer]
-          [/DefaultSetting]	
+          [/DefaultSetting]
+
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/SmallRealWheel1x1[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/SmallRealWheel[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/SmallRealWheel5x5[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/RealWheel1x1[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/RealWheel[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/RealWheel5x5[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/SmallRealWheel1x1mirrored[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/SmallRealWheelmirrored[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/SmallRealWheel5x5mirrored[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/RealWheel1x1mirrored[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/RealWheelmirrored[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/RealWheel5x5mirrored[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/Wheel1x1[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/SmallWheel1x1[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/Wheel3x3[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/SmallWheel3x3[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/Wheel5x5[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/SmallWheel5x5[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+          
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadSmallRealWheel1x1[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadSmallRealWheel[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadSmallRealWheel5x5[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadRealWheel1x1[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadRealWheel[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadRealWheel5x5[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadSmallRealWheel1x1mirrored[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadSmallRealWheelmirrored[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadSmallRealWheel5x5mirrored[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadRealWheel1x1mirrored[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadRealWheelmirrored[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadRealWheel5x5mirrored[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadWheel1x1[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadSmallWheel1x1[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadWheel3x3[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadSmallWheel3x3[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadWheel5x5[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
+		  
+          [DefaultSetting]
+            [Type]MyObjectBuilder_Wheel/OffroadSmallWheel5x5[/Type]
+            [AllowedForPlayer]false[/AllowedForPlayer]
+          [/DefaultSetting]
 
         [/DefaultSettings]
       </Description>
