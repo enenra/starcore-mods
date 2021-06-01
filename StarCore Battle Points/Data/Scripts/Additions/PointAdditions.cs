@@ -10,7 +10,7 @@ namespace ShipPoints
         public override void Init(MyObjectBuilder_SessionComponent sessionComponent)
         {
             MyAPIGateway.Utilities.SendModMessage(2546247, MyAPIGateway.Utilities.SerializeToBinary(@"
-				LargeBlockBatteryBlock@15;
+		LargeBlockBatteryBlock@15;
                 BattleshipCannon@60;
                 BattleshipCannonMK2@110;
                 BattleshipCannonMK22@110;
@@ -19,20 +19,16 @@ namespace ShipPoints
                 RailgunxTurretS@150;
                 RailgunxTurretM@275;
                 RailgunxTurret@400;
-				
-				StaticBattery1@100;
-				StaticBattery1Stack@100;
-				Railgunx@150;
-				
+		StaticBattery1@100;
+		StaticBattery1Stack@100;
+		Railgunx@150;
                 M1Torpedo@400;
                 M8Launcher@300;
                 BFTriCannon@375;
                 MXA_SMAC@3000;
-				
                 C100mmTurret@100;
                 C200mmTurret@160;
-				C300mmTurret@300;
-				
+		C300mmTurret@300;
                 CIWS@175;
                 AMSlaser@125;
                 AS2@450;
@@ -75,21 +71,19 @@ namespace ShipPoints
                 MA_Designator@20;
                 LargeBlockSmallGenerator@18;
                 LargeBlockLargeGenerator@300;
-				
                 LargeBlockSmallThrust@15;
                 LargeBlockLargeThrust@110;
                 LargeBlockLargeIon@110;
                 LargeBlockSmallIon@15;
-				LargeBlockSmallThrustSciFi@15;
-				LargeBlockLargeThrustSciFi@110;
-				
+		LargeBlockSmallThrustSciFi@15;
+		LargeBlockLargeThrustSciFi@110;
                 AQD_LG_IonThrusterS_ArmoredSlope@15;
                 AQD_LG_IonThrusterS_Armored@15;
                 AQD_LG_IonThrusterL_ArmoredSlope@110;
                 AQD_LG_IonThrusterL_Armored@110;
                 IonHeavyCovered@450;
                 LargeWarhead@20;
-                LargeDecoy@25;
+                LargeDecoy@10;
                 LargeStator@50;
                 LargeAdvancedStator@50;
                 LargeHinge@50;
@@ -100,11 +94,9 @@ namespace ShipPoints
                 MCRNLeftRetractPDC@200;
                 MCRNTopRetractPDC@200;
                 K_SA_Launcher_FixedMount@500;
-
                 MA_Buster_ArmorBlock@1;
                 MA_Buster_Window@1;
                 MA_Buster_Camera@1;
-
                 LargeBlockRemoteControl@50;
                 LargeProgrammableBlock@50;
             "));
